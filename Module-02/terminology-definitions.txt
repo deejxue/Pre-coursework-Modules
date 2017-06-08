@@ -1,0 +1,21 @@
+Node.js -- an open-source, cross-platform JavaScript run-time environment for executing JavaScript code server-side.
+
+Framer.js -- a tool to create animated or interactive prototypes.
+
+React (ReactJS) -- an open-source JavaScript library for building user interfaces and maintained by Facebook, Instagram and a community of individual developers and corporations.
+
+Apache Thrift --  a software framework, for scalable cross-language services development, which combines a software stack with a code generation engine to build services that work efficiently and seamlessly between C++, Java, Python, PHP, Ruby, Erlang, Perl, Haskell, C#, Cocoa, JavaScript, Node.js, Smalltalk, OCaml and Delphi and other languages.
+
+Docker -- a tool designed to make it easier to create, deploy, and run applications by using containers.
+
+Responsive web design (RWD) -- an approach to web design aimed at allowing desktop webpages to be viewed in response to the size of the screen or web browser one is viewing with.
+
+AngularJS ("Angular.js" or "AngularJS 1.X") -- a JavaScript-based open-source front-end web application framework mainly maintained by Google and by a community of individuals and corporations to address many of the challenges encountered in developing single-page applications.
+
+Bootstrap -- a free front-end framework for faster and easier web development. Bootstrap includes HTML and CSS based design templates for typography, forms, buttons, tables, navigation, modals, image carousels and many other, as well as optional JavaScript plugins.
+
+Scrum -- Scrum is an iterative and incremental agile software development framework for managing product development.[1][2] It defines "a flexible, holistic product development strategy where a development team works as a unit to reach a common goal",[3] challenges assumptions of the "traditional, sequential approach"[3] to product development, and enables teams to self-organize by encouraging physical co-location or close online collaboration of all team members, as well as daily face-to-face communication among all team members and disciplines involved.
+         Scrum is part of the Agile movement.  Scrum emphasizes collaboration, functioning software, team self management, and the flexibility to adapt to emerging business realities. Scrum is a simple set of roles, responsibilities, and meetings that never change.
+
+LINQ --  Language Integrated Query (LINQ, pronounced "link") is a Microsoft .NET Framework component that adds native data querying capabilities to .NET languages, although ports exist for PHP (PHPLinq), JavaScript (linq.js), TypeScript (linq.ts), and ActionScript (ActionLinq) - but none of these ports are strictly equivalent to LINQ in C# for example (where it is a part of the language, not an external library, and where it often addresses a wider range of needs).
+         LINQ extends the language by the addition of query expressions, which are akin to SQL statements, and can be used to conveniently extract and process data from arrays, enumerable classes, XML documents, relational databases, and third-party data sources.
